@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SensorDataJSON</string>
+    <string name="select_sensor_demo">Select the sensor demo</string>
+
+    <string name="from_server">Vom Server holen…</string>
+    <string name="to_server">Auf dem Server speichern…</string>
+    <string name="key">Schlüssel</string>
+    <string name="value">Wert</string>
+    <string name="send">Senden</string>
+    <string name="get">Holen</string>
+    <string name="service_call">Serviceaufruf</string>
+</resources>

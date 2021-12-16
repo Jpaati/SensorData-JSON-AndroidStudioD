@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_key">f8585fa4-e1a4-40dc-b07f-1dc2a9281ae4</string>
+    <string name="url">https://tmp.twx.htl.schule</string>
+    <string name="thing">701417_greia_raspi</string>
+    <string name="data_table">701417_greia_datatable_test</string>
+    <string name="data_table_sensor">701417_greia_datatable_sensor</string>
+</resources>
